@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-B369jMOc.js";import{a as n,o as t,b as o}from"./chunk-BGACwH0c.js";const s=r({},[["render",function(r,s){return t(),n("div",null,[...s[0]||(s[0]=[o("button",{class:"btn btn-error"}," 打印 ",-1)])])}]]);export{s as default};
